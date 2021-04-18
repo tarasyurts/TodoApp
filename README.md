@@ -1,5 +1,5 @@
 # TodoApp
-![DB](/images/main_screen.png)
-![DB](/images/todo_screen.png)
-![DB](/images/edit_modal.png)
+![Main Screen](/images/main_screen.png)
+![Todo Screen](/images/todo_screen.png)
+![Edit Modal](/images/edit_modal.png)
 ![DB](/images/db.png)
