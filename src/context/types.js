@@ -1,0 +1,17 @@
+export const ADD_TODO = 'ADD_TODO'
+export const UPDATE_TODO_TITLE = 'UPDATE_TODO_TITLE'
+export const REMOVE_TODO = 'REMOVE_TODO'
+// export const ACCOMPLISH_TODO = 'ACCOMPLISH_TODO'
+export const CHANGE_SCREEN = 'CHANGE_SCREEN'
+export const FETCH_TODOS = 'FETCH_TODOS'
+export const SHOW_LOADER = 'SHOW_LOADER'
+export const HIDE_LOADER = 'HIDE_LOADER'
+export const SHOW_ERROR = 'SHOW_ERROR'
+export const CLEAR_ERROR = 'CLEAR_ERROR'
+
+export const CHANGE_TODOS_TYPE = 'CHANGE_TODOS_TYPE'
+export const UPDATE_TODO_TYPE = 'UPDATE_TODO_TYPE'
+
+export const DONE_TODO = 'DONE_TODO'
+export const UNDONE_TODO = 'UNDONE_TODO'
+export const REMOVED_TODO = 'REMOVED_TODO'
